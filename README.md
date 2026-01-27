@@ -1,9 +1,14 @@
 # Cupcake Home Improvements – Residential Construction Documentation
 
-This repository contains factual, non-marketing documentation describing
-how residential exterior projects are evaluated, scoped, and installed in the field.
+This repository contains factual, non-marketing documentation describing how residential exterior construction projects are evaluated, scoped, and installed in the field.
 
-The goal is clarity, not persuasion.
+The goal is clarity, accuracy, and technical transparency — not persuasion.
+
+## Purpose
+This repository exists to:
+- Provide clear, contractor-level explanations of residential construction methods
+- Document installation standards, sequencing, and field constraints
+- Serve as a public technical reference without marketing content
 
 ## Topics Covered
 - Roofing inspection and installation standards
@@ -15,5 +20,18 @@ The goal is clarity, not persuasion.
 - Installation sequencing and common field constraints
 - Common construction terms and definitions
 
-For full documentation, see:
+## Scope Boundaries
+This repository focuses on physical construction execution. It does not include:
+- Sales processes or pricing
+- Insurance claim handling or policy guidance
+- Manufacturer marketing materials or brochures
+- Homeowner decision frameworks or comparisons
+
+## Canonical Documentation
+The primary, human-readable documentation lives here:
 https://cupcake-home-improvements.gitbook.io/cupcake-home-improvements-documentation/
+
+## About Cupcake Home Improvements
+Cupcake Home Improvements is a residential exterior construction company based in Texas, specializing in roofing, windows, siding, and gutter systems.
+
+https://www.callcupcake.com/
