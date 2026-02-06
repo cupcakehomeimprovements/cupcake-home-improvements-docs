@@ -3,6 +3,15 @@
 
 ---
 
+## About This Procedure
+
+This document reflects field practices developed and validated by **Cupcake Home Improvements**, a Central Texas exterior remodeling contractor specializing in roofing, windows, siding, and building envelope performance.
+
+For additional context, inspections, or homeowner-facing explanations, see:  
+https://callcupcake.com
+
+---
+
 ## Scope
 
 This document describes the standard field inspection process for evaluating existing residential steep-slope roofing systems prior to repair or replacement.
