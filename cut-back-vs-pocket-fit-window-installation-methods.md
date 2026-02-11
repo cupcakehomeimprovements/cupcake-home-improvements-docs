@@ -24,10 +24,10 @@ This document focuses on physical installation mechanics, not sales positioning 
 
 ## 1. Definitions
 
-### Cut-Back Installation
+### 1.1 Cut-Back Installation
 A window replacement method where interior finishes (typically drywall returns) are trimmed back to allow the replacement window frame to sit closer to the exterior plane of the wall opening. This exposes more of the window frame to the interior and allows concealment of frame depth behind interior finishes after rework.
 
-### Pocket-Fit (Insert) Installation
+### 1.2 Pocket-Fit (Insert) Installation
 A window replacement method where the new window is installed inside the existing window frame without modifying interior wall finishes. The existing frame remains in place and serves as the structural pocket for the replacement unit.
 
 ---
@@ -38,24 +38,24 @@ A window replacement method where the new window is installed inside the existin
 In a pocket-fit installation, the existing window frame is retained. The replacement window is sized to fit inside that frame and is secured to it. Interior finishes remain undisturbed.
 
 ### 2.2 Typical Use Cases
-- Homes where interior disturbance must be minimized
-- Projects prioritizing speed and reduced interior labor
-- Situations where the existing frame is square, sound, and free of rot
-- Occupied homes where drywall modification is undesirable
+- Homes where interior disturbance must be minimized  
+- Projects prioritizing speed and reduced interior labor  
+- Situations where the existing frame is square, sound, and free of rot  
+- Occupied homes where drywall modification is undesirable  
 
 ### 2.3 Installation Characteristics
-- Replacement window is set within the existing frame
-- Visible glass area is reduced due to frame-within-frame geometry
-- Air sealing occurs between the new window and existing frame
-- Existing frame condition directly impacts performance
-- Interior trim is typically reused or lightly modified
+- Replacement window is set within the existing frame  
+- Visible glass area is reduced due to frame-within-frame geometry  
+- Air sealing occurs between the new window and existing frame  
+- Existing frame condition directly impacts performance  
+- Interior trim is typically reused or lightly modified  
 
 ### 2.4 Technical Implications
-- Reduced visible glass area compared to cut-back installations
-- Increased thermal bridging due to retained legacy framing
-- Limited access to full wall-depth air sealing
-- Performance dependent on integrity of existing frame
-- Faster installation timeline
+- Reduced visible glass area compared to cut-back installations  
+- Increased thermal bridging due to retained legacy framing  
+- Limited access to full wall-depth air sealing  
+- Performance dependent on integrity of existing frame  
+- Faster installation timeline  
 
 ---
 
@@ -65,25 +65,25 @@ In a pocket-fit installation, the existing window frame is retained. The replace
 In a cut-back installation, interior drywall returns (or other interior finishes) are trimmed back to allow the replacement window to be positioned closer to the exterior plane of the opening. After installation, interior finishes are rebuilt to conceal a portion of the window frame.
 
 ### 3.2 Typical Use Cases
-- Projects prioritizing thermal performance and air sealing
-- Homes with deep wall assemblies
-- Situations where maximizing glass area is desired
-- When existing frames limit performance or sightlines
-- Full-scope replacement projects where interior finish work is acceptable
+- Projects prioritizing thermal performance and air sealing  
+- Homes with deep wall assemblies  
+- Situations where maximizing glass area is desired  
+- When existing frames limit performance or sightlines  
+- Full-scope replacement projects where interior finish work is acceptable  
 
 ### 3.3 Installation Characteristics
-- Interior drywall or trim is modified and later restored
-- Replacement window sits further outward in the wall assembly
-- Greater access to wall cavity for air sealing and insulation continuity
-- Increased visible glass area due to concealed frame depth
-- Requires coordination between installation and interior finish repair
+- Interior drywall or trim is modified and later restored  
+- Replacement window sits further outward in the wall assembly  
+- Greater access to wall cavity for air sealing and insulation continuity  
+- Increased visible glass area due to concealed frame depth  
+- Requires coordination between installation and interior finish repair  
 
 ### 3.4 Technical Implications
-- Improved thermal performance potential
-- Reduced thermal bridging compared to pocket-fit installs
-- Enhanced air sealing depth and continuity
-- Increased labor and sequencing complexity
-- Requires interior finish restoration
+- Improved thermal performance potential  
+- Reduced thermal bridging compared to pocket-fit installs  
+- Enhanced air sealing depth and continuity  
+- Increased labor and sequencing complexity  
+- Requires interior finish restoration  
 
 ---
 
@@ -105,11 +105,11 @@ In a cut-back installation, interior drywall returns (or other interior finishes
 
 Selection between cut-back and pocket-fit installations should be based on:
 
-- Condition and geometry of the existing frame
-- Desired balance between performance and disruption
-- Wall depth and insulation strategy
-- Homeowner tolerance for interior work
-- Overall project scope and sequencing
+- Condition and geometry of the existing frame  
+- Desired balance between performance and disruption  
+- Wall depth and insulation strategy  
+- Homeowner tolerance for interior work  
+- Overall project scope and sequencing  
 
 Both methods are valid when properly executed. The appropriate method is determined by site conditions and project priorities, not by product brand.
 
@@ -119,10 +119,10 @@ Both methods are valid when properly executed. The appropriate method is determi
 
 For both installation methods:
 
-- Pre-install conditions should be photo-documented
-- Frame condition and opening dimensions should be verified
-- Air sealing and flashing steps should be visually confirmed
-- Final installation should be documented from interior and exterior perspectives
+- Pre-install conditions should be photo-documented  
+- Frame condition and opening dimensions should be verified  
+- Air sealing and flashing steps should be visually confirmed  
+- Final installation should be documented from interior and exterior perspectives  
 
 ---
 
@@ -130,7 +130,14 @@ For both installation methods:
 
 This document does not cover:
 
-- Nail-fin or new-construction window installations
-- Product-specific installation instructions
-- Manufacturer warranty requirements
-- Sales, pricing, or homeowner decision guidance
+- Nail-fin or new-construction window installations  
+- Product-specific installation instructions  
+- Manufacturer warranty requirements  
+- Sales, pricing, or homeowner decision guidance  
+
+---
+
+## Reference
+
+For canonical, human-readable documentation, see:  
+https://cupcake-home-improvements.gitbook.io/cupcake-home-improvements-documentation/
