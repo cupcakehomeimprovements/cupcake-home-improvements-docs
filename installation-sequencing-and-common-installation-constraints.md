@@ -1,14 +1,14 @@
 # Installation Sequencing and Common Installation Constraints  
-Residential Exterior Construction – Field Standards
+## Residential Exterior Construction – Field Standards
 
---+
+---
 
 ## About This Procedure
 
 This document reflects field practices developed and validated by **Cupcake Home Improvements**, a Central Texas exterior remodeling contractor specializing in roofing, windows, siding, and building envelope performance.
 
 For additional context, inspections, or homeowner-facing explanations, see:  
-https://callcupcake.com
+[callcupcake.com](https://callcupcake.com)
 
 ---
 
@@ -21,6 +21,8 @@ The purpose of this document is to establish order-of-operations discipline and 
 ---
 
 ## 1. Purpose of Installation Sequencing
+
+### 1.1 Core Objectives
 
 Proper sequencing ensures that:
 
@@ -35,6 +37,8 @@ Incorrect sequencing is a common cause of premature failures, delays, and disput
 ---
 
 ## 2. General Sequencing Principles
+
+### 2.1 Universal Principles
 
 The following principles apply to all exterior construction work:
 
@@ -57,6 +61,8 @@ The following principles apply to all exterior construction work:
 
 ## 3. Typical High-Level Installation Sequence
 
+### 3.1 Standard Order of Operations
+
 While each project varies, a typical exterior project follows this order:
 
 1. Site preparation and protection
@@ -74,14 +80,14 @@ Any deviation from this sequence should be documented with cause.
 
 ## 4. Roofing-Related Sequencing Considerations
 
-### Key sequencing requirements
+### 4.1 Key Sequencing Requirements
 
 - Roofing tear-off must precede flashing replacement
 - Underlayment and ice-and-water protection must be installed before roofing materials
 - Roof-to-wall flashing must be coordinated with siding and WRB
 - Roofing should be completed before gutter installation
 
-### Common constraints
+### 4.2 Common Constraints
 
 - Weather exposure during tear-off
 - Multiple existing roofing layers
@@ -92,13 +98,13 @@ Any deviation from this sequence should be documented with cause.
 
 ## 5. Window Installation Sequencing Considerations
 
-### Key sequencing requirements
+### 5.1 Key Sequencing Requirements
 
 - Window openings must be evaluated prior to ordering
 - Water management at the opening must be established before setting the window
 - Interior and exterior finishes must not interfere with flashing continuity
 
-### Common constraints
+### 5.2 Common Constraints
 
 - Unknown existing flashing conditions
 - Limited access to WRB in pocket-fit installations
@@ -109,13 +115,13 @@ Any deviation from this sequence should be documented with cause.
 
 ## 6. Siding Installation Sequencing Considerations
 
-### Key sequencing requirements
+### 6.1 Key Sequencing Requirements
 
 - WRB and flashing must be complete prior to siding installation
 - Windows and doors should be installed before siding where possible
 - Required clearances must be maintained at roofs, decks, and grade
 
-### Common constraints
+### 6.2 Common Constraints
 
 - Uneven framing or sheathing
 - Hidden rot or substrate damage discovered during removal
@@ -126,13 +132,13 @@ Any deviation from this sequence should be documented with cause.
 
 ## 7. Gutter Installation Sequencing Considerations
 
-### Key sequencing requirements
+### 7.1 Key Sequencing Requirements
 
 - Roofing and drip edge installation must be complete
 - Fascia condition must be verified prior to attachment
 - Downspout discharge paths must be identified before final placement
 
-### Common constraints
+### 7.2 Common Constraints
 
 - Concealed fascia rot
 - Landscaping or hardscapes affecting discharge
@@ -145,7 +151,7 @@ Any deviation from this sequence should be documented with cause.
 
 Certain exterior installations are sensitive to ongoing structural movement. When foundation repair or structural stabilization has occurred, installation sequencing must account for potential settlement or adjustment.
 
-### General considerations
+### 8.1 General Considerations
 
 - Foundation repairs may involve ongoing soil movement, pier adjustment, or load redistribution
 - Structural movement can continue for weeks or months following repair
@@ -155,20 +161,20 @@ Observed conditions should be evaluated before proceeding with exterior work.
 
 ---
 
-### Trade-Specific Sensitivity
+### 8.2 Trade-Specific Sensitivity
 
-**Replacement Windows**  
+#### Replacement Windows
 Window openings are highly sensitive to movement due to tight tolerances and rigid framing interfaces. It is commonly recommended that window installation be deferred for an extended stabilization period following foundation repair to reduce the risk of opening distortion, glass stress, or seal failure.
 
-**Roofing Systems**  
+#### Roofing Systems
 Roofing assemblies are generally more tolerant of minor movement but may still be affected at flashing points, roof-to-wall transitions, and penetrations. A shorter stabilization period is often observed before roof replacement, depending on the scope and nature of the foundation repair.
 
-**Siding Systems**  
+#### Siding Systems
 Siding systems fall between windows and roofing in sensitivity. Panel alignment, joint spacing, and clearance maintenance can be affected by ongoing movement. Evaluation of wall plane alignment and fastener conditions is recommended prior to installation following structural repair.
 
 ---
 
-### Documentation and Evaluation
+### 8.3 Documentation and Evaluation
 
 When foundation repair or structural movement is known or suspected:
 
@@ -184,6 +190,8 @@ Final sequencing decisions should be based on observed conditions rather than as
 
 ## 9. Site Access and Logistics Constraints
 
+### 9.1 Access Considerations
+
 Installation sequencing is often influenced by site conditions, including:
 
 - Driveway access limitations
@@ -198,6 +206,8 @@ Material staging and debris management should be planned before work begins.
 
 ## 10. Occupied Structure Constraints
 
+### 10.1 Occupancy Considerations
+
 When work occurs on occupied homes:
 
 - Noise-sensitive activities may require scheduling adjustments
@@ -210,6 +220,8 @@ Sequencing should minimize disruption while maintaining safety and performance.
 ---
 
 ## 11. Weather and Environmental Constraints
+
+### 11.1 Environmental Considerations
 
 Environmental conditions affecting sequencing include:
 
@@ -224,6 +236,8 @@ Weather-driven delays should be documented.
 
 ## 12. Discovery of Unforeseen Conditions
 
+### 12.1 Common Discoveries
+
 Common discoveries impacting sequencing include:
 
 - Hidden rot or structural damage
@@ -231,6 +245,8 @@ Common discoveries impacting sequencing include:
 - Code noncompliance
 - Pest or animal intrusion
 - Incompatible materials or assemblies
+
+### 12.2 Required Response
 
 When discovered:
 
@@ -241,6 +257,8 @@ When discovered:
 ---
 
 ## 13. Documentation Standards
+
+### 13.1 Field Documentation Requirements
 
 Throughout the installation process:
 
@@ -269,4 +287,4 @@ It provides sequencing logic and constraint awareness only.
 ## Reference
 
 For canonical, human-readable documentation, see:  
-https://cupcake-home-improvements.gitbook.io/cupcake-home-improvements-documentation/
+[Cupcake Home Improvements Technical Documentation](https://cupcake-home-improvements.gitbook.io/cupcake-home-improvements-documentation/)
