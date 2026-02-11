@@ -283,7 +283,5 @@ Upon completion:
 
 ## Reference
 
-This document reflects industry-standard residential gutter installation principles and field best practices.
-
 For canonical, human-readable documentation, see:  
 [Cupcake Home Improvements Technical Documentation](https://cupcake-home-improvements.gitbook.io/cupcake-home-improvements-documentation/)
