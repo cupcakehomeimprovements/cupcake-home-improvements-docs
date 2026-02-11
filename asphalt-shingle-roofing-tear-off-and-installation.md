@@ -194,4 +194,18 @@ Deck surfaces must be:
 3. Deck inspection and repair  
 4. Underlayment and membrane installation  
 5. Flashing installation  
-6. Sh
+6. Shingle installation  
+7. Hip and ridge completion  
+8. Final inspection and cleanup  
+
+---
+
+## Notes
+
+This document represents a general field process. Actual installation requirements may vary based on:
+- Local building codes
+- Roof geometry
+- Climate exposure
+- Material specifications
+
+This documentation focuses on construction execution rather than product marketing or sales guidance.
