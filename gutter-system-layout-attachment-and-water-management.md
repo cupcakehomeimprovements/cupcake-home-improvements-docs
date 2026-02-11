@@ -8,7 +8,7 @@
 This document reflects field practices developed and validated by **Cupcake Home Improvements**, a Central Texas exterior remodeling contractor specializing in roofing, windows, siding, and building envelope performance.
 
 For additional context, inspections, or homeowner-facing explanations, see:  
-https://callcupcake.com
+[callcupcake.com](https://callcupcake.com)
 
 ---
 
@@ -23,6 +23,8 @@ This document focuses on physical installation execution, drainage performance, 
 
 ## 1. Purpose of the Gutter System
 
+### 1.1 Primary Functions
+
 The primary function of a gutter system is to:
 
 - Collect roof runoff
@@ -36,6 +38,8 @@ Gutters are a water management system, not a decorative element.
 
 ## 2. Pre-Installation Assessment
 
+### 2.1 Roof and Drainage Evaluation
+
 Before layout or installation begins:
 
 - Identify roof type, pitch, and surface material
@@ -45,7 +49,10 @@ Before layout or installation begins:
 - Confirm downspout discharge locations
 - Photograph each elevation and roof edge
 
+### 2.2 Obstruction Review
+
 Evaluate obstructions:
+
 - Roof valleys concentrating flow
 - Dormers or intersecting roof planes
 - Chimneys, step flashing, and kickout flashing
@@ -55,6 +62,8 @@ Evaluate obstructions:
 ---
 
 ## 3. Fascia Inspection and Preparation
+
+### 3.1 Structural Verification
 
 Before any gutter attachment:
 
@@ -70,21 +79,28 @@ Attachment into deteriorated fascia is not acceptable.
 
 ## 4. Gutter Layout and Sizing
 
+### 4.1 Design Considerations
+
 Layout decisions must be based on water volume, not aesthetics.
 
 Key considerations:
+
 - Roof surface area draining into each gutter run
 - Roof pitch and material affecting runoff speed
 - Valley concentration points
 - Local rainfall intensity
 
+### 4.2 Layout Principles
+
 General principles:
+
 - Continuous runs preferred over segmented sections
 - Minimize the number of joints where possible
 - Size gutters to handle peak flow conditions
 - Position downspouts at natural drainage points
 
 Valleys and high-volume roof sections typically require:
+
 - Increased gutter capacity
 - Additional downspouts
 - Strategic placement near flow concentration zones
@@ -93,14 +109,20 @@ Valleys and high-volume roof sections typically require:
 
 ## 5. Slope and Pitch Requirements
 
+### 5.1 Slope Principles
+
 Gutters must be installed with continuous slope toward downspouts.
 
 General principles:
+
 - Consistent pitch across the entire run
 - No flat or reverse-sloped sections
 - Slope should not be visually obvious from grade
 
+### 5.2 Consequences of Improper Slope
+
 Improper slope results in:
+
 - Standing water
 - Sediment buildup
 - Ice formation
@@ -110,18 +132,22 @@ Improper slope results in:
 
 ## 6. Gutter Attachment Method
 
-Attachment principles:
+### 6.1 Attachment Principles
 
 - Gutters are mechanically fastened into solid fascia or framing
 - Fasteners must be corrosion-resistant
 - Attachment spacing must resist sagging under full water load
 
-Standard attachment method:
+### 6.2 Standard Attachment Method
+
 - Zip screws are used to secure gutters to fascia
 - Fasteners are installed approximately every 16–18 inches
 - Spacing may be reduced near valleys or downspouts
 
+### 6.3 Improper Attachment Conditions
+
 Improper attachment includes:
+
 - Fastening only into fascia skin or trim
 - Over-spaced fasteners
 - Loose, angled, or stripped fasteners
@@ -130,14 +156,20 @@ Improper attachment includes:
 
 ## 7. Integration with Roofing Leading Edge
 
+### 7.1 Integration Requirements
+
 Proper integration at the roof edge is critical to water control.
 
 Requirements:
+
 - Gutter must sit beneath the roof drip edge
 - Roof water must discharge into the gutter, not behind it
 - Drip edge must extend into the gutter where applicable
 
+### 7.2 Failure Risks
+
 Improper integration can cause:
+
 - Water intrusion behind fascia
 - Rot at roof edges
 - Ice dam formation
@@ -147,14 +179,20 @@ Improper integration can cause:
 
 ## 8. Downspout Assembly and Attachment
 
+### 8.1 Assembly Standards
+
 Downspouts must be assembled and secured to withstand movement, wind, and thermal expansion.
 
 Standard practices:
+
 - Downspout seams are mechanically fastened using rivets
 - Rivets provide superior long-term holding strength compared to screws
 - Rivets reduce loosening over time due to vibration or expansion
 
+### 8.2 Attachment Requirements
+
 Downspouts must be:
+
 - Securely fastened to the structure
 - Properly aligned to prevent leaks or separation
 - Free of sharp edges or deformation
@@ -163,18 +201,24 @@ Downspouts must be:
 
 ## 9. Downspout Placement and Water Discharge
 
+### 9.1 Placement Principles
+
 Downspouts must be placed to:
 
 - Handle expected water volume
 - Minimize long gutter runs
 - Discharge water away from the structure
 
+### 9.2 Discharge Considerations
+
 General principles:
+
 - Avoid discharging directly at foundations
 - Avoid discharging onto walkways or driveways
 - Use extensions or underground drainage where required
 
 Evaluate:
+
 - Soil slope and grading
 - Landscaping impact
 - Adjacent structures
@@ -184,9 +228,12 @@ Evaluate:
 
 ## 10. Optional Gutter Protection Systems
 
+### 10.1 Installation Considerations
+
 Where specified, gutter protection systems may be installed to reduce debris accumulation.
 
 Considerations:
+
 - Must not impede water flow
 - Must integrate with roof edge and drip edge
 - Must allow for future inspection and maintenance
@@ -211,6 +258,8 @@ Many gutter failures result from layout or attachment errors rather than materia
 ---
 
 ## 12. Final Inspection and Documentation
+
+### 12.1 Verification Checklist
 
 Upon completion:
 
@@ -237,4 +286,4 @@ Upon completion:
 This document reflects industry-standard residential gutter installation principles and field best practices.
 
 For canonical, human-readable documentation, see:  
-https://cupcake-home-improvements.gitbook.io/cupcake-home-improvements-documentation/
+[Cupcake Home Improvements Technical Documentation](https://cupcake-home-improvements.gitbook.io/cupcake-home-improvements-documentation/)
