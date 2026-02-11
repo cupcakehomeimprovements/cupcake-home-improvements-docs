@@ -1,4 +1,5 @@
-# Cut-Back vs Pocket-Fit Window Installation Methods
+# Cut-Back vs Pocket-Fit Window Installation Methods  
+## Residential Retrofit Installation – Technical Comparison
 
 ---
 
@@ -7,46 +8,49 @@
 This document reflects field practices developed and validated by **Cupcake Home Improvements**, a Central Texas exterior remodeling contractor specializing in roofing, windows, siding, and building envelope performance.
 
 For additional context, inspections, or homeowner-facing explanations, see:  
-https://callcupcake.com
+[callcupcake.com](https://callcupcake.com)
 
 ---
 
-## Purpose
-This document describes two common residential window replacement installation methods: **cut-back installation** and **pocket-fit (insert) installation**. Both methods are used in retrofit scenarios where existing exterior wall systems remain intact. The goal is to document *how* each method is executed, *why* it is selected, and *what tradeoffs exist* from a construction and performance standpoint.
+## Scope
+
+This document describes two common residential window replacement installation methods: **cut-back installation** and **pocket-fit (insert) installation**. Both methods are used in retrofit scenarios where existing exterior wall systems remain intact.
+
+The goal is to document how each method is executed, why it is selected, and what tradeoffs exist from a construction and performance standpoint.
 
 This document focuses on physical installation mechanics, not sales positioning or product marketing.
 
 ---
 
-## Definitions
+## 1. Definitions
 
-**Cut-Back Installation**  
+### Cut-Back Installation
 A window replacement method where interior finishes (typically drywall returns) are trimmed back to allow the replacement window frame to sit closer to the exterior plane of the wall opening. This exposes more of the window frame to the interior and allows concealment of frame depth behind interior finishes after rework.
 
-**Pocket-Fit (Insert) Installation**  
+### Pocket-Fit (Insert) Installation
 A window replacement method where the new window is installed inside the existing window frame without modifying interior wall finishes. The existing frame remains in place and serves as the structural pocket for the replacement unit.
 
 ---
 
-## Pocket-Fit (Insert) Installation
+## 2. Pocket-Fit (Insert) Installation
 
-### Description
+### 2.1 Description
 In a pocket-fit installation, the existing window frame is retained. The replacement window is sized to fit inside that frame and is secured to it. Interior finishes remain undisturbed.
 
-### Typical Use Cases
+### 2.2 Typical Use Cases
 - Homes where interior disturbance must be minimized
 - Projects prioritizing speed and reduced interior labor
 - Situations where the existing frame is square, sound, and free of rot
 - Occupied homes where drywall modification is undesirable
 
-### Installation Characteristics
+### 2.3 Installation Characteristics
 - Replacement window is set within the existing frame
 - Visible glass area is reduced due to frame-within-frame geometry
 - Air sealing occurs between the new window and existing frame
 - Existing frame condition directly impacts performance
 - Interior trim is typically reused or lightly modified
 
-### Technical Implications
+### 2.4 Technical Implications
 - Reduced visible glass area compared to cut-back installations
 - Increased thermal bridging due to retained legacy framing
 - Limited access to full wall-depth air sealing
@@ -55,26 +59,26 @@ In a pocket-fit installation, the existing window frame is retained. The replace
 
 ---
 
-## Cut-Back Installation
+## 3. Cut-Back Installation
 
-### Description
+### 3.1 Description
 In a cut-back installation, interior drywall returns (or other interior finishes) are trimmed back to allow the replacement window to be positioned closer to the exterior plane of the opening. After installation, interior finishes are rebuilt to conceal a portion of the window frame.
 
-### Typical Use Cases
+### 3.2 Typical Use Cases
 - Projects prioritizing thermal performance and air sealing
 - Homes with deep wall assemblies
 - Situations where maximizing glass area is desired
 - When existing frames limit performance or sightlines
 - Full-scope replacement projects where interior finish work is acceptable
 
-### Installation Characteristics
+### 3.3 Installation Characteristics
 - Interior drywall or trim is modified and later restored
 - Replacement window sits further outward in the wall assembly
 - Greater access to wall cavity for air sealing and insulation continuity
 - Increased visible glass area due to concealed frame depth
 - Requires coordination between installation and interior finish repair
 
-### Technical Implications
+### 3.4 Technical Implications
 - Improved thermal performance potential
 - Reduced thermal bridging compared to pocket-fit installs
 - Enhanced air sealing depth and continuity
@@ -83,10 +87,10 @@ In a cut-back installation, interior drywall returns (or other interior finishes
 
 ---
 
-## Comparative Summary
+## 4. Comparative Summary
 
 | Attribute | Pocket-Fit Installation | Cut-Back Installation |
-|---------|------------------------|----------------------|
+|-----------|------------------------|----------------------|
 | Interior Disruption | Minimal | Moderate |
 | Visible Glass Area | Reduced | Increased |
 | Air Sealing Depth | Limited | Expanded |
@@ -97,9 +101,10 @@ In a cut-back installation, interior drywall returns (or other interior finishes
 
 ---
 
-## Selection Considerations
+## 5. Selection Considerations
 
 Selection between cut-back and pocket-fit installations should be based on:
+
 - Condition and geometry of the existing frame
 - Desired balance between performance and disruption
 - Wall depth and insulation strategy
@@ -110,9 +115,10 @@ Both methods are valid when properly executed. The appropriate method is determi
 
 ---
 
-## Documentation and Quality Control
+## 6. Documentation and Quality Control
 
 For both installation methods:
+
 - Pre-install conditions should be photo-documented
 - Frame condition and opening dimensions should be verified
 - Air sealing and flashing steps should be visually confirmed
@@ -120,9 +126,10 @@ For both installation methods:
 
 ---
 
-## Scope Boundaries
+## 7. Scope Boundaries
 
 This document does not cover:
+
 - Nail-fin or new-construction window installations
 - Product-specific installation instructions
 - Manufacturer warranty requirements
