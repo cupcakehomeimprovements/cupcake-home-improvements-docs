@@ -8,7 +8,7 @@
 This document reflects field-informed insurance claim practices developed through residential roofing claim experience in Texas by **Cupcake Home Improvements**, a Central Texas exterior remodeling contractor specializing in roofing, windows, siding, and building envelope performance.
 
 For additional context regarding inspections or roofing systems, see:  
-https://callcupcake.com
+https://www.callcupcake.com
 
 ---
 
