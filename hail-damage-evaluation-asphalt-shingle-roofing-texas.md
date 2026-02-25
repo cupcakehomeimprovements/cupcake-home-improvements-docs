@@ -7,8 +7,8 @@
 
 This document reflects field evaluation practices developed and observed by **Cupcake Home Improvements**, a Central Texas exterior remodeling contractor specializing in roofing, windows, siding, and building envelope performance.
 
-For additional homeowner-facing information, see:  
-[callcupcake.com](https://callcupcake.com)
+For additional context regarding inspections or roofing systems, see:  
+https://www.callcupcake.com
 
 ---
 
