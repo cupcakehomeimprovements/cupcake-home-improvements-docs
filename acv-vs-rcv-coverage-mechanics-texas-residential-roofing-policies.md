@@ -1,3 +1,108 @@
+# ACV vs RCV Coverage Mechanics  
+## Texas Residential Roofing Policies – Structural and Payment Framework
+
+---
+
+## About This Procedure
+
+This document reflects field practices developed and validated by **Cupcake Home Improvements**, a Central Texas exterior remodeling contractor specializing in roofing, windows, siding, and building envelope performance.
+
+For additional context, inspections, or homeowner-facing explanations, see:  
+https://callcupcake.com
+
+---
+
+## Scope
+
+This document defines the mechanical differences between **Actual Cash Value (ACV)** and **Replacement Cost Value (RCV)** coverage as they apply to Texas residential roofing insurance policies.
+
+It applies to single-family and low-rise residential properties insured under standard Texas homeowners policies.
+
+This document explains structural payment mechanics and depreciation methodology.  
+It does not interpret individual policy language or provide legal advice.
+
+---
+
+## 1. Overview of Residential Roof Coverage Types
+
+Texas homeowners policies commonly insure roofing systems under one of two valuation methods:
+
+- **Replacement Cost Value (RCV)**
+- **Actual Cash Value (ACV)**
+
+The valuation method determines how claim payments are calculated following covered wind or hail damage.
+
+Coverage type directly impacts:
+
+- Initial claim payment
+- Depreciation application
+- Recoverable depreciation eligibility
+- Out-of-pocket exposure
+- Repair versus replacement feasibility
+
+---
+
+## 2. Replacement Cost Value (RCV)
+
+### 2.1 Definition
+
+Replacement Cost Value coverage pays the cost to repair or replace damaged roofing materials at current market pricing, without permanent depreciation deduction — provided repairs are completed.
+
+### 2.2 Payment Structure
+
+RCV policies typically pay in two stages:
+
+1. **Initial Payment (ACV Portion)**  
+   - Replacement cost minus depreciation minus deductible
+
+2. **Recoverable Depreciation Payment**  
+   - Paid after repairs are completed and documented
+
+### 2.3 Example Structure (Illustrative)
+
+If roof replacement cost is $10,000  
+Depreciation applied: $2,000  
+Deductible: $4,000  
+
+Initial ACV payment:  
+$10,000 – $2,000 – $4,000 = **$4,000**
+
+Recoverable depreciation payment (after completion):  
+**$2,000**
+
+Total insurer payout (excluding deductible):  
+**$6,000**
+
+### 2.4 Key Characteristics
+
+- Depreciation is temporary (recoverable)
+- Repairs must be completed to receive full payout
+- Documentation of completion is required
+- Matching and scope disputes may arise
+- Deductible applies per policy terms
+
+---
+
+## 3. Actual Cash Value (ACV)
+
+### 3.1 Definition
+
+Actual Cash Value coverage pays replacement cost minus depreciation based on age, condition, and useful life of the roofing system.
+
+Depreciation under ACV policies is **non-recoverable**.
+
+### 3.2 Depreciation Mechanics
+
+Depreciation is typically calculated using:
+
+- Roof age
+- Expected useful life
+- Material type
+- Condition prior to loss
+
+Simplified example formula:
+
+Replacement Cost × (Remaining Useful Life ÷ Total Expected Life)
 
 ### 3.3 Payment Characteristics
 
@@ -21,7 +126,7 @@ In Texas, insurers increasingly:
 - Impose percentage-based deductibles (1%–5%)
 - Restrict cosmetic-only damage coverage
 
-Policyholders must review declarations pages annually to confirm:
+Policyholders should review declarations pages annually to confirm:
 
 - Roof coverage type
 - Deductible structure
@@ -29,20 +134,20 @@ Policyholders must review declarations pages annually to confirm:
 
 ---
 
-## 5. Wind and Hail Deductible Structures
+## 5. Wind, Hail, and Named Storm Deductible Structures
 
 Texas policies commonly include:
 
 - Separate wind/hail deductibles
 - Percentage-based deductibles tied to dwelling value
-- Higher deductibles for named storms
+- Higher deductibles for named storm events
 
 Example:
 
 $300,000 dwelling coverage  
-2% wind/hail deductible = $6,000 deductible
+2% wind/hail deductible = **$6,000 deductible**
 
-Deductible applies before any payout calculation.
+The deductible applies before any payout calculation under both ACV and RCV policies.
 
 ---
 
@@ -58,7 +163,7 @@ Depreciation commonly considers:
 
 Accelerated aging may affect depreciation calculations.
 
-Improper installation does not automatically eliminate coverage but may affect causation disputes.
+Improper installation does not automatically eliminate coverage but may affect causation or scope disputes.
 
 ---
 
